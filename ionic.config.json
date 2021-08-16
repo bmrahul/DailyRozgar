@@ -1,0 +1,7 @@
+{
+  "name": "DailyRozgar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
